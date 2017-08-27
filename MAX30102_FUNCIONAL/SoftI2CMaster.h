@@ -76,7 +76,7 @@
 #endif
 
 //----------------------------------------------------------------------------
-//ADDED FOR ANOTHER ARDUINO BOARDS 
+//ADDED FOR ANOTHER ARDUINO BOARDS IPC17
 #ifdef ARDUINO_AVR_MICRO
 //for arduino based on atmega32u4(MICRO, MICRO PRO, LEONARDO).
 //look for MCU pinout on schematic files and add another #IF_CASE
