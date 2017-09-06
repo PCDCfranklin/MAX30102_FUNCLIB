@@ -1,4 +1,6 @@
 # MAX30102_FUNCLIB
+ENG:
+
 
 Functional Arduino Library modified for use MAX30102 sensor. IPC17
 
@@ -13,7 +15,7 @@ Library was tested with ARDUINO IDE 1.8.4 and is enabled to work with MEGA, MICR
 #define SCL_PIN 0
 #endif
 
-
+ESP:
 
 Librería modificada funcional Arduino para el sensor MAX30102. IPC17
 
