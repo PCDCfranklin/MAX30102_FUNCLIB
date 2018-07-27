@@ -15,6 +15,12 @@ Library was tested with ARDUINO IDE 1.8.4 and is enabled to work with MEGA, MICR
 #define SCL_PIN 0
 #endif
 
+Steps to install library:
+1) Download library as ZIP file
+2) Unzip ZIP file content on arduino/libraries folder
+3) Restart Arduino IDE
+4) Find it on examples MAX30102_FUNCIONAL
+
 ESP:
 
 Librería modificada funcional Arduino para el sensor MAX30102. IPC17
@@ -29,3 +35,9 @@ La biblioteca fue probada con ARDUINO IDE 1.8.4 y está habilitada para trabajar
 #define SCL_PORT PORTD  
 #define SCL_PIN 0
 #endif
+
+Pasos para instalar la biblioteca:
+1) Descargar la biblioteca como archivo ZIP
+2) Descomprima el contenido del archivo ZIP en la carpeta arduino/libraries
+3) Reiniciar Arduino IDE
+4) Encuéntrelo en ejemplos MAX30102_FUNCIONAL
