@@ -36,7 +36,7 @@ La biblioteca fue probada con ARDUINO IDE 1.8.4 y está habilitada para trabajar
 #define SCL_PIN 0
 #endif
 
-Pasos para instalar la biblioteca:
+Pasos para instalar la libreria:
 1) Descargar la biblioteca como archivo ZIP
 2) Descomprima el contenido del archivo ZIP en la carpeta arduino/libraries
 3) Reiniciar Arduino IDE
